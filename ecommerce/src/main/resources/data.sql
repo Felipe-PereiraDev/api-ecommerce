@@ -1,0 +1,10 @@
+INSERT INTO categories (name, description) VALUES ("Eletrônicos", "Dispositivos e gadgets como celulares, laptops e tablets.");
+INSERT INTO categories (name, description) VALUES ("Roupas", "Vestuário masculino, feminino e infantil.");
+INSERT INTO categories (name, description) VALUES ("Livros", "Ficção, não-ficção e materiais acadêmicos.");
+INSERT INTO categories (name, description) VALUES ("Eletrodomésticos", "Aparelhos para cozinha e uso doméstico.");
+INSERT INTO categories (name, description) VALUES ("Móveis", "Móveis para ambientes internos e externos.");
+INSERT INTO categories (name, description) VALUES ("Brinquedos", "Brinquedos e jogos para crianças de todas as idades.");
+INSERT INTO categories (name, description) VALUES ("Beleza", "Produtos de cosméticos e cuidados com a pele.");
+INSERT INTO categories (name, description) VALUES ("Esportes", "Equipamentos esportivos e roupas para atividades físicas.");
+INSERT INTO categories (name, description) VALUES ("Automotivo", "Acessórios para carros e produtos de manutenção.");
+INSERT INTO categories (name, description) VALUES ("Mercearia", "Alimentos e suprimentos domésticos do dia a dia.");
