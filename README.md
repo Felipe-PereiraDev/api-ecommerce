@@ -138,7 +138,7 @@ Esta API permite gerenciar usuários, produtos, categorias e pedidos de um siste
     }
   ]
 ---
-### 2. Pedidos (`/order`)
+### 3. Pedidos (`/order`)
 
 ### Criar Pedido
 - **Método:** `POST /order/{userId}`
